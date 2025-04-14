@@ -4,7 +4,7 @@
 
 ### [Modelo C4][1]
 
-**Palestrante:** Cássio Botero
+**Palestrante:** [Cássio Botaro][4]
 
 ### [Contribuindo para prompts responsáveis no projeto Responsible Prompting][2]
 
@@ -12,5 +12,6 @@
 
 [0]: https://www.meetup.com/pt-BR/Grupy-SP/events/307053175/?isFirstPublish=true
 [1]: https://abre.ai/modelo-c4
-[2]: https://github.com/grupy-sp/encontros/blob/master/slides/contribuindo_para_prompts_responsaveis_cassiasamp.pdf
+[2]: https://github.com/cassiasamp/encontros/blob/master/slides/contribuindo_para_prompts_responsaveis_cassiasamp.pdf
 [3]: https:github.com/cassiasamp/
+[4]: https://github.com/cassiobotaro/
